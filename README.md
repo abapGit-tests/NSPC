@@ -1,0 +1,2 @@
+# NSPC
+Namespace
