@@ -4,6 +4,7 @@
   <asx:values>
    <DEVC>
     <CTEXT>ABAP Library Demo</CTEXT>
+    <DLVUNIT>LIBDEMO</DLVUNIT>
    </DEVC>
   </asx:values>
  </asx:abap>
