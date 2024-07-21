@@ -11,6 +11,17 @@
     <DESCRIPTN>ABAP Library Demo</DESCRIPTN>
     <OWNER>Marc Bernard Tools</OWNER>
    </NSPC_TEXT>
+   <CVERS>
+    <COMPONENT>LIBDEMO</COMPONENT>
+    <RELEASE>100</RELEASE>
+    <EXTRELEASE>0000000000</EXTRELEASE>
+    <COMP_TYPE>A</COMP_TYPE>
+   </CVERS>
+   <CVERS_REF>
+    <COMPONENT>LIBDEMO</COMPONENT>
+    <LANGU>E</LANGU>
+    <DESC_TEXT>Library Demo</DESC_TEXT>
+   </CVERS_REF>
   </asx:values>
  </asx:abap>
 </abapGit>
