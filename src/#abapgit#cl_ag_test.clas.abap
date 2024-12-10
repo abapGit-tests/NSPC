@@ -1,4 +1,4 @@
-CLASS /apmg/cl_ag_test DEFINITION PUBLIC FINAL CREATE PUBLIC.
+CLASS /abapgit/cl_ag_test DEFINITION PUBLIC FINAL CREATE PUBLIC.
 
   PUBLIC SECTION.
 
@@ -15,7 +15,7 @@ ENDCLASS.
 
 
 
-CLASS /apmg/cl_ag_test IMPLEMENTATION.
+CLASS /abapgit/cl_ag_test IMPLEMENTATION.
 
 
   METHOD get.
